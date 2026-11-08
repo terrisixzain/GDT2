@@ -1,0 +1,4 @@
+repository "GDT2/GDT2@16768300434665@cloud"
+  path "/"
+    br "/main"
+    co "/main"
